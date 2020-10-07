@@ -10,4 +10,4 @@ Youtube Video : https://youtu.be/Evr0J94ZQuQ
 
 Linkedin Post : https://www.linkedin.com/posts/nilesh-joshi-772574197_datascience-machinelearning-businessanalytics-activity-6719546790775005184-ElRq
 
-Youtube Video : https://www.youtube.com/watch?v=lK4aMUjneUA
+Youtube Video : https://youtu.be/lK4aMUjneUA
