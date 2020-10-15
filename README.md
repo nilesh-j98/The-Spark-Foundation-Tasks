@@ -11,3 +11,9 @@ Youtube Video : https://youtu.be/Evr0J94ZQuQ
 Linkedin Post : https://www.linkedin.com/posts/nilesh-joshi-772574197_datascience-machinelearning-businessanalytics-activity-6719546790775005184-ElRq
 
 Youtube Video : https://youtu.be/lK4aMUjneUA
+
+# Task 3 : Prediction using Decision Tree Classifier
+
+Linkedin Post : https://www.linkedin.com/posts/nilesh-joshi-772574197_datascience-machinelearning-businessanalytics-activity-6722507569761529856-hWoD
+
+Youtube Video : https://youtu.be/35oX4neBAqE
